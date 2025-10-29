@@ -1,2 +1,2 @@
-# DSA-using-Cpp
-A collection of Data Structures and Algorithms implemented in C++. Includes Linked Lists, Stacks, Queues, Trees, Sorting, Searching, and more — perfect for learning and practice.
+This repository is a complete collection of **Data Structure and Algorithm (DSA)** implementations using **C++**.  
+Each program is written in a simple and understandable way — perfect for students who are learning DSA or revising core concepts.
